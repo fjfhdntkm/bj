@@ -1,0 +1,28 @@
+apache jmeter       ------ web压力测试   java
+
+bluefish            ------ html 开发
+
+
+Code::Blocks        ------ C ide
+
+
+cuttlefish          ------ 图标
+
+
+edb                 -------   ？
+
+
+devhelp             --------  api find
+
+
+mcu8051 ide         ------- 单片机开发
+
+
+
+
+
+
+
+
+
+
